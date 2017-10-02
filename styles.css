@@ -1,0 +1,12 @@
+body {
+    background-color: purple;
+    background-image: url("https://board.postjung.com/data/674/674573-img-1367295977-7.jpg");
+}
+h1 {
+    color: gold;
+    text-align: center;
+}
+p {
+    font-family: verdana;
+    font-size: 25px;
+}
