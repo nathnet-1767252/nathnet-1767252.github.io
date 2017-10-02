@@ -1,0 +1,12 @@
+body {
+    background-color: purple;
+    background-image: url("http://content.king5.com/photo/2016/12/23/UW_Logo_Purple_On_Gold_1482508174908_7455435_ver1.0.jpg");
+}
+h1 {
+    color: gold;
+    text-align: center;
+}
+p {
+    font-family: verdana;
+    font-size: 25px;
+}
