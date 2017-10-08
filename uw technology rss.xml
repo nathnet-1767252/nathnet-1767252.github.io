@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>UW News &#187; Technology</title>
+	<atom:link href="http://www.washington.edu/news/category/technology/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.washington.edu/news</link>
+	<description></description>
+	<lastBuildDate>Thu, 05 Oct 2017 20:21:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=4.3.11</generator>
+	<item>
+		<title>New portable blood analyzer could improve anemia detection worldwide</title>
+		<link>http://www.washington.edu/news/2017/10/04/new-portable-blood-analyzer-could-improve-anemia-detection-worldwide/</link>
+		<comments>http://www.washington.edu/news/2017/10/04/new-portable-blood-analyzer-could-improve-anemia-detection-worldwide/#comments</comments>
+		<pubDate>Wed, 04 Oct 2017 15:51:47 +0000</pubDate>
+		<dc:creator><![CDATA[UW News staff]]></dc:creator>
+				<category><![CDATA[Engineering]]></category>
+		<category><![CDATA[Health and medicine]]></category>
+		<category><![CDATA[News releases]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[Science]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[College of Engineering]]></category>
+		<category><![CDATA[Department of Mechanical Engineering]]></category>
+		<category><![CDATA[Nathan Sniedecki]]></category>
+
+		<guid isPermaLink="false">http://www.washington.edu/news/?p=54897</guid>
+		<description><![CDATA[To reduce the burden of anemia worldwide, health officials need a portable and affordable way to analyze blood. Mechanical engineering researchers at the University of Washington developed a device smaller than a toaster that can detect the level of hemoglobin in whole blood samples using optical absorbance.]]></description>
+				<content:encoded><![CDATA[<p>About one quarter of the world’s population suffers from anemia, a disease caused by a concentration deficiency of hemoglobin in red blood cells. To reduce the burden of anemia, health officials need a better picture of the disease&#8217;s global impact, an understanding made viable by a portable and affordable way to analyze blood.</p>
+<div id="attachment_54899" class="wp-caption alignright" style="width: 290px"><a href="http://www.washington.edu/news/files/2017/10/AIPADV043709-Sniadecki-hemoglobincombined-resized-WEB-1.jpg"><img class="size-full wp-image-54899" src="http://www.washington.edu/news/files/2017/10/AIPADV043709-Sniadecki-hemoglobincombined-resized-WEB-1.jpg" alt="picture of optical analyzer" width="280" height="776" /></a></p>
+<p class="wp-caption-text">Top: Nikita Taparia stands with a microfluidic card in her hand, next to the optical analyzer. Bottom: Close-up view of the optical analyzer<span class="wp-media-credit">Nikita Taparia, University of Washington</span></p>
+</div>
+<p>Mechanical engineering researchers at the University of Washington developed a device smaller than a toaster that can detect the level of hemoglobin in whole blood samples using optical absorbance. The <a href="http://aip.scitation.org/doi/10.1063/1.4997185">work is published</a> this week in <a href="http://aip.scitation.org/journal/adv/">AIP Advances</a>, from AIP Publishing.</p>
+<p>Hemoglobin is a protein found in red blood cells that transports oxygen throughout the body. As the concentration of hemoglobin decreases, the body becomes starved of oxygen, often resulting in dizziness, fatigue, shortness of breath, and abnormal heart rate.</p>
+<p>Blood analyzers currently on the market measure hemoglobin by chemically rupturing the red blood cells in a sample. This technique requires hands-on expertise to prepare and run a sample, limiting the ability to monitor anemia in many parts of the world.</p>
+<p>“The most exciting aspect to this analyzer is that it uses whole blood and does not require the additional steps and reagents to prepare a sample,” said author <a href="https://www.me.washington.edu/people/faculty/nate_sniadecki">Nathan Sniadecki</a>, associate professor in mechanical engineering at the University of Washington.</p>
+<p>The device only requires a few drops of blood for analysis.</p>
+<p>“You just run blood into the channel and that’s it,” said <a href="https://www.linkedin.com/in/nikitataparia/">Nikita Taparia</a>, a doctoral candidate in Snaidecki’s lab and another author. “It can be used anywhere.”</p>
+<p>The analyzer takes advantage of the optical properties of blood, such as absorption and scattering, to measure hemoglobin concentration. Anemic blood transmits more light compared to normal blood, so the severity of anemia can be measured as a ratio of transmitted to original light intensity.</p>
+<p>To simulate anemia, the researchers diluted blood samples with a buffer solution. The blood analyzer was effective at predicting cases of moderate to severe anemia, defined as less than 10 grams per deciliter of hemoglobin in a sample. The analyzer did not produce any false negative results.</p>
+<p>The optical density of samples did not increase linearly, so a higher concentration of hemoglobin defines the upper limit of detection for the device.</p>
+<p>The primary cause of anemia is iron deficiency, but it can co-occur with other conditions, such as malaria and genetic disorders like sickle cell. Severe anemia can lead to increased maternal and child mortality. It also impairs cognitive and physical development in children.</p>
+<p>“It has been really rewarding to be part of a project from start to finish that produced a device that will really help people,” Taparia said. “This analyzer is meant for people who have disease.”</p>
+<p>The current design is a prototype that could be integrated with other microfluidic devices to analyze whole blood samples in parallel to diagnose anemia and other underlying factors that could contribute to the disease.</p>
+<p>The research received support from a Department of Education GAANN Fellowship and the National Science Foundation.</p>
+<p>Co-authors include mechanical engineering undergraduate student Kristin Anderson and former UW microbiology student Kimsey Platten.</p>
+<p>This was adapted from a <a href="https://publishing.aip.org/publishing/journal-highlights/new-portable-blood-analyzer-could-improve-anemia-detection-worldwide">news release written by the AIP news staff</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.washington.edu/news/2017/10/04/new-portable-blood-analyzer-could-improve-anemia-detection-worldwide/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<enclosure url="http://www.washington.edu/news/files/2017/10/Optical-analyzer-cropped1-150x150.jpg" length="10797" type="image/jpeg" />	</item>
+		<item>
+		<title>UW ranked among top 10 most innovative universities in the world by Reuters</title>
+		<link>http://www.washington.edu/news/2017/09/28/uw-ranked-among-top-10-most-innovative-universities-in-the-world-by-reuters/</link>
+		<comments>http://www.washington.edu/news/2017/09/28/uw-ranked-among-top-10-most-innovative-universities-in-the-world-by-reuters/#comments</comments>
+		<pubDate>Fri, 29 Sep 2017 00:17:18 +0000</pubDate>
+		<dc:creator><![CDATA[UW News staff]]></dc:creator>
+				<category><![CDATA[Honors and awards]]></category>
+		<category><![CDATA[News releases]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[rankings]]></category>
+
+		<guid isPermaLink="false">http://www.washington.edu/news/?p=54866</guid>
+		<description><![CDATA[The University of Washington is listed at No. 7 on the Reuters Top 100: The World’s Most Innovative Universities, released Wednesday.]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.washington.edu/news/files/2017/08/suzzallo-night-TILE.jpg"><img class="alignnone size-full-content wp-image-54526" src="http://www.washington.edu/news/files/2017/08/suzzallo-night-TILE-750x448.jpg" alt="Suzzallo Library at night" width="750" height="448" /></a></p>
+<p>The University of Washington is listed at No. 7 on the <a href="http://www.reuters.com/article/us-amers-reuters-ranking-innovative-univ/reuters-top-100-the-worlds-most-innovative-universities-2017-idUSKCN1C209R">Reuters Top 100: The World’s Most Innovative Universities</a>, released Wednesday. Now in its third year, the list ranks the educational institutions doing the most to advance science, invent new technologies and help drive the global economy.</p>
+<p>The UW is the top-ranked U.S. public institution on the list.</p>
+<p>“Our University is steeped in a spirit of innovation, and that culture permeates everything we do, from biomedical advances to public policy research. It’s gratifying to see the excellence of our faculty, students and staff, and the impact of innovation in and beyond our campuses, recognized in this way,” said UW President Ana Mari Cauce.</p>
+<p>Reuters’ ranking relies exclusively on empirical data such as patent filings and research paper citations specifically from 2010 to 2015, the publication <a href="http://www.reuters.com/innovative-universities-2017/methodology">reported</a>.</p>
+<p>The UW has ranked in the top 10 since the ranking began in 2015.</p>
+<p>The Reuters ranking comes on the heels of the <a href="http://www.washington.edu/news/2017/09/06/uw-remains-at-no-25-in-the-world-fourth-among-u-s-public-institutions-on-times-higher-education-ranking-list/">Times Higher Education</a> world university ranking, which placed the UW at No. 25, fourth among U.S. public institutions, and the <a href="http://www.washington.edu/news/2017/08/23/uw-is-no-13-in-the-world-third-among-public-universities-in-new-ranking/">2017 Academic Ranking of World Universities</a> from the Center for World-Class Universities of Shanghai Jiao Tong University, which was released last month and ranked the UW No. 13, third among U.S. public institutions.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.washington.edu/news/2017/09/28/uw-ranked-among-top-10-most-innovative-universities-in-the-world-by-reuters/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<enclosure url="http://www.washington.edu/news/files/2017/08/suzzallo-night-TILE-150x150.jpg" length="10285" type="image/jpeg" />	</item>
+		<item>
+		<title>Lisa M. Zurk named executive director of UW Applied Physics Laboratory</title>
+		<link>http://www.washington.edu/news/2017/09/28/lisa-m-zurk-named-executive-director-of-uw-applied-physics-laboratory/</link>
+		<comments>http://www.washington.edu/news/2017/09/28/lisa-m-zurk-named-executive-director-of-uw-applied-physics-laboratory/#comments</comments>
+		<pubDate>Thu, 28 Sep 2017 17:18:52 +0000</pubDate>
+		<dc:creator><![CDATA[UW News staff]]></dc:creator>
+				<category><![CDATA[Administrative affairs]]></category>
+		<category><![CDATA[Engineering]]></category>
+		<category><![CDATA[Science]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[UW Today blog]]></category>
+		<category><![CDATA[Applied Physics Laboratory]]></category>
+		<category><![CDATA[College of Engineering]]></category>
+		<category><![CDATA[Department of Electrical Engineering]]></category>
+		<category><![CDATA[Lisa Zurk]]></category>
+
+		<guid isPermaLink="false">http://www.washington.edu/news/?p=54848</guid>
+		<description><![CDATA[Lisa Zurk, a UW aluma in electrical engineering, professor at Portland State University and program manager at DARPA, will become the eighth director of the UW's Applied Physics Laboratory.]]></description>
+				<content:encoded><![CDATA[<p><a href="http://web.cecs.pdx.edu/~zurkl/" target="_blank">Lisa Zurk</a> will be the next executive director of the Applied Physics Laboratory at the University of Washington (APL-UW), Vice Provost for Research Mary Lidstrom announced this week. She will be the first woman to hold the position of executive director of APL-UW. Zurk comes to the UW from the Defense Advanced Research Projects Agency (DARPA), where she directed allocation of the nation’s research investments. As a program manager in the agency&#8217;s Strategic Technology Office, her area of interest was physics-based processing techniques applied to advanced sensor system concepts.</p>
+<div id="attachment_54849" class="wp-caption alignright" style="width: 214px"><a href="http://www.washington.edu/news/files/2017/09/lisa_zurk.jpg"><img class="wp-image-54849 size-medium" src="http://www.washington.edu/news/files/2017/09/lisa_zurk-e1506619120452-204x300.jpg" alt="Lisa M. Zurk" width="204" height="300" /></a></p>
+<p class="wp-caption-text">Lisa M. Zurk</p>
+</div>
+<p>An alumna of the UW, Zurk&#8217;s most recent academic position was as professor of electrical and computer engineering at Portland State University. During her decade-long career at PSU she founded and co-directed the Northwest Electromagnetic and Acoustics Research Laboratory (NEAR-Lab), which is recognized nationally for developing advanced techniques to exploit physics-based wave phenomena.</p>
+<p>Zurk will join the UW this spring to become the eighth leader of APL-UW, succeeding <a href="http://www.apl.washington.edu/people/profile.php?last=Simmen&amp;first=Jeff" target="_blank">Jeff Simmen</a>, the executive director since 2003. <a href="http://www.apl.washington.edu/people/profile.php?last=Miyamoto&amp;first=Bob" target="_blank">Bob Miyamoto</a>, director for defense and industry programs at APL-UW, will serve as interim executive director.</p>
+<p>She will also join the UW Department of Electrical Engineering as a full professor. The department holds strong ties with APL-UW on a number of different research projects and grants. Zurk’s appointment further enriches the interdisciplinary efforts of UW EE and APL-UW.</p>
+<p>&#8220;We are very excited to have Lisa join UW EE as a new faculty member,” said <a href="http://www.ee.washington.edu/people/radha-poovendran/" target="_blank">Radha Poovendran</a>, professor and chair of the department. “Lisa has collaborated with both UW EE and APL-UW on multiple projects throughout her successful career. Her appointment as executive director of APL-UW further fosters our collaborative relationship with APL-UW.&#8221;</p>
+<p>Zurk has been associated with APL-UW throughout her career. She pursued research with laboratory mentors while a graduate student in the UW Department of Electrical Engineering, where her dissertation was on electromagnetic wave propagation in remote sensing of snow, then was an APL-UW associate scientist during her tenure at Portland State University and a principal investigator in collaborative sponsored research with APL-UW scientists.</p>
+<p>&#8220;I am tremendously excited to be returning to APL and UW to grow and strengthen the critical science and engineering expertise these talented individuals provide for our nation and our community,&#8221; Zurk said.</p>
+<p>Zurk earned a bachelor’s in computer science from the University of Massachusetts, Amherst, a master’s in electrical and computer engineering from Northeastern University, and a doctorate from the UW in electrical engineering. Before joining Portland State University, Zurk was a researcher at the Massachusetts Institute of Technology&#8217;s Lincoln Laboratory, where she created and managed a program spanning technical areas from underwater acoustics to radar systems.</p>
+<p>Her many accolades and distinctions include receiving a Fulbright scholarship, the National Science Foundation CAREER Award, the Presidential Early Career Award for Scientists and Engineers (PECASE), the Office of Naval Research Faculty Award, and fellow status in the Acoustical Society of America.</p>
+<p>The Applied Physics Laboratory of the UW was established by the U.S. Navy nearly 75 years ago. Since then, APL-UW has provided access to the highest levels of academic expertise in scientific research and engineering to Navy-specific problems. Administered by the UW Office of Research, APL-UW advances university missions through research excellence, educating scientists and engineers, technology innovation and national service.</p>
+<p style="text-align: center">###</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.washington.edu/news/2017/09/28/lisa-m-zurk-named-executive-director-of-uw-applied-physics-laboratory/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<enclosure url="http://www.washington.edu/news/files/2017/09/lisa_zurk-e1506619120452-150x150.jpg" length="6699" type="image/jpeg" />	</item>
+		<item>
+		<title>UW to host $15.6M NSF-funded center for innovation, education in materials science</title>
+		<link>http://www.washington.edu/news/2017/09/25/uw-to-host-15-6m-nsf-funded-center-for-innovation-education-in-materials-science/</link>
+		<comments>http://www.washington.edu/news/2017/09/25/uw-to-host-15-6m-nsf-funded-center-for-innovation-education-in-materials-science/#comments</comments>
+		<pubDate>Mon, 25 Sep 2017 16:23:57 +0000</pubDate>
+		<dc:creator><![CDATA[James Urton]]></dc:creator>
+				<category><![CDATA[Engineering]]></category>
+		<category><![CDATA[News releases]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[Science]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Christine Luscombe]]></category>
+		<category><![CDATA[Clean Energy Institute]]></category>
+		<category><![CDATA[College of Arts & Sciences]]></category>
+		<category><![CDATA[College of Engineering]]></category>
+		<category><![CDATA[Daniel Gamelin]]></category>
+		<category><![CDATA[Molecular Engineering & Sciences Institute]]></category>
+		<category><![CDATA[Molecular Engineering Materials Center]]></category>
+
+		<guid isPermaLink="false">http://www.washington.edu/news/?p=54815</guid>
+		<description><![CDATA[The University of Washington is home to a new national center of excellence for research, education and training in materials science. The Molecular Engineering Materials Center is funded by a $15.6 million, six-year grant from the National Science Foundation as part of its highly competitive Materials Research Science and Engineering Center (MRSEC) program.]]></description>
+				<content:encoded><![CDATA[<p>The University of Washington is home to a new national center of excellence for research, education and training in materials science. The Molecular Engineering Materials Center is funded by a $15.6 million, six-year grant from the National Science Foundation as part of its highly competitive <a href="https://www.nsf.gov/funding/pgm_summ.jsp?pims_id=5295" target="_blank">Materials Research Science and Engineering Center (MRSEC) program</a>. The UW center is a partnership among UW faculty from the <a href="https://artsci.washington.edu/" target="_blank">College of Arts &amp; Sciences</a>, the <a href="https://www.engr.washington.edu/" target="_blank">College of Engineering</a>, the <a href="http://www.cei.washington.edu/" target="_blank">Clean Energy Institute</a> (CEI) and the <a href="http://www.moles.washington.edu/" target="_blank">Molecular Engineering &amp; Sciences Institute</a> (MolES).</p>
+<div id="attachment_54821" class="wp-caption alignright" style="width: 277px"><a href="http://www.washington.edu/news/files/2017/09/20161114-MoEIS-025.jpg"><img class="size-medium wp-image-54821" src="http://www.washington.edu/news/files/2017/09/20161114-MoEIS-025-267x300.jpg" alt="A man sitting in a lab." width="267" height="300" /></a></p>
+<p class="wp-caption-text">Daniel Gamelin, UW professor of chemistry and director of the Molecular Engineering Materials Center.<span class="wp-media-credit">Matt Hagen/Clean Energy Institute</span></p>
+</div>
+<p>The new center builds on the UW&#8217;s record of innovative, collaborative and cross-disciplinary research in the materials sciences, and on a legacy of timely institutional and state investments in materials research at the UW. Initial research will focus on nanocrystals and thin films — toward goals such as developing new materials for applications in clean energy, photonics and quantum computing.</p>
+<p>&#8220;The primary goal of the UW MRSEC is to empower the next generation of science and engineering leaders,&#8221; said center director and UW chemistry professor <a href="https://depts.washington.edu/chem/people/faculty/gamelin.html" target="_blank">Daniel Gamelin</a>. &#8220;This will involve engaging and supporting students and postdoctoral researchers — and giving them the research and educational experiences, training and cross-disciplinary mentorship that they will need to forge careers on the cutting edge of materials science.&#8221;</p>
+<p>The center will embark on new research and training endeavors to:</p>
+<ul>
+<li>Pursue so-called &#8220;moonshot&#8221; projects, which are research endeavors with potentially high payoff, but are generally beyond the feasibility of smaller research grants awarded to individual professors.</li>
+<li>Implement new cross-disciplinary training and mentorship programs for doctoral students and postdoctoral researchers, including opportunities to conduct research with the center&#8217;s industrial and international partners, and with partners at <a href="http://www.pnnl.gov/" target="_blank">Pacific Northwest National Laboratory</a> and at other <a href="https://energy.gov/maps/doe-national-laboratories" target="_blank">National Laboratories</a> run by the U.S. Department of Energy.</li>
+<li>Broaden educational and research opportunities for UW students and researchers, including advanced training on new equipment purchased with center funds.</li>
+<li>Expand outreach and mentorship efforts to high school students from underrepresented minorities to encourage them to pursue science, technology, engineering and math (STEM) education as undergraduates.</li>
+<li>Implement comprehensive outreach efforts to recruit military veterans at the UW and at local community colleges into research and education for STEM careers.</li>
+<li>Provide support for additional doctoral and postdoctoral researchers.</li>
+</ul>
+<div id="attachment_54819" class="wp-caption alignleft" style="width: 310px"><a href="http://www.washington.edu/news/files/2017/09/MRSEC2017_team.jpg"><img class="size-medium wp-image-54819" src="http://www.washington.edu/news/files/2017/09/MRSEC2017_team-300x187.jpg" alt="Six people standing in front of a building." width="300" height="187" /></a></p>
+<p class="wp-caption-text">Six UW faculty members who led the effort to secure NSF support for the Molecular Engineering Materials Center. Back row (left to right): Brandi Cossairt, Daniel Gamelin, Scott Dunham. Front row (left to right): Xiaodong Xu, Christine Luscombe, Kai-Mei Fu.<span class="wp-media-credit">Rose Reyes</span></p>
+</div>
+<p>The center&#8217;s inaugural team of 15 faculty come from a variety of disciplines across engineering and the physical sciences. In addition to their home departments in the College of Engineering and the College of Arts &amp; Sciences, 10 are also faculty members in the CEI and 11 in the MolES. This diverse cohort reflects the center&#8217;s goal to foster novel and innovative collaborations across traditionally separate disciplines.</p>
+<p>The center will make use of existing research and education space across the UW campus, including in the <a href="https://www.engr.washington.edu/about/bldgs/mol" target="_blank">Molecular Engineering &amp; Sciences Building</a>. The CEI and the MolES, both of which are headquartered in that building, will provide access to equipment for center research and training.</p>
+<p>The center&#8217;s outreach activities — both within the UW and around the region — emphasize education and training for materials science careers. Each year it will host a <a href="https://www.nsf.gov/crssprgm/reu/" target="_blank">Research Experiences for Undergraduates</a> program for students from around the country to conduct research with a UW faculty member during the summer. In addition, center scientists will mentor pre-college students from underrepresented minority groups, providing support and resources to help prepare them for college and encourage them to pursue STEM education. In an entirely new endeavor, the center also will set up programs to engage veterans in center research, very few of whom pursue STEM education and careers.</p>
+<div id="attachment_54818" class="wp-caption alignright" style="width: 310px"><a href="http://www.washington.edu/news/files/2017/09/Arka_Majumdar_Shane_Nahom_REU_Summer_2017.jpg"><img class="size-medium wp-image-54818" src="http://www.washington.edu/news/files/2017/09/Arka_Majumdar_Shane_Nahom_REU_Summer_2017-300x200.jpg" alt="Students working in a laboratory" width="300" height="200" /></a></p>
+<p class="wp-caption-text">College students working with researchers as part of the UW Clean Energy Institute&#8217;s REU program in summer 2017.<span class="wp-media-credit">Matt Hagen/Clean Energy Institute</span></p>
+</div>
+<p>&#8220;With this NSF support, the center will bring new opportunities in STEM education to groups that are underrepresented in STEM careers,&#8221; said UW professor of materials science and engineering <a href="https://mse.washington.edu/people/faculty/christine-luscombe">Christine Luscombe</a>, who is the center&#8217;s executive director for education and outreach. &#8220;Programs like these are expanding access to science.&#8221;</p>
+<p>The center will focus on two broad research areas, in nanocrystals and thin films.</p>
+<p>The first goal, co-led by Gamelin and Luscombe and including eight initial faculty members, is to pursue new approaches to engineer defects in nanocrystals such as semiconductor quantum dots. Though &#8220;defects&#8221; often have a negative connotation, in materials science they are opportunities to create substances with novel and technologically attractive properties. Precisely targeted defects or impurities, for example, could <a href="http://www.washington.edu/news/2015/11/16/uw-team-refrigerates-liquids-with-a-laser-for-the-first-time/" target="_blank">make a substance cool down</a> — rather than heat up — when hit by a laser. These new materials could also lead to products such as solar-concentrating window films that absorb photons from sunlight and shunt them to photovoltaic cells for energy conversion.</p>
+<div id="attachment_54820" class="wp-caption alignleft" style="width: 310px"><a href="http://www.washington.edu/news/files/2017/09/Pozzo_Lab_REU_Alicia_and_students_Summer_2017.jpg"><img class="size-medium wp-image-54820" src="http://www.washington.edu/news/files/2017/09/Pozzo_Lab_REU_Alicia_and_students_Summer_2017-300x200.jpg" alt="Students working in a laboratory" width="300" height="200" /></a></p>
+<p class="wp-caption-text">College students working with researchers as part of the UW Clean Energy Institute&#8217;s REU program in summer 2017.<span class="wp-media-credit">Matt Hagen/Clean Energy Institute</span></p>
+</div>
+<p>The center&#8217;s other focus is the creation of new ultrathin semiconductor materials with unique properties. This team will include seven initial faculty, and is co-led by associate professor of physics and materials science and engineering <a href="https://mse.washington.edu/people/faculty/xiaodong-xu" target="_blank">Xiaodong Xu</a> and assistant professor of physics and electrical engineering <a href="http://www.ee.washington.edu/people/kai-mei-fu/" target="_blank">Kai-Mei Fu</a>. This research creates thin sheets of materials — often just one layer of atoms thick — and investigates the unique quantum-mechanical properties revealed when these sheets are layered together. These layered materials could form the basis of new <a href="http://www.washington.edu/news/2016/02/12/uw-scientists-create-ultrathin-semiconductor-heterostructures-for-new-technological-applications/" target="_blank">ultrathin semiconductors</a> for applications in clean energy, optoelectronics and other applications. In fact, using this approach, one UW team recently discovered a <a href="http://www.washington.edu/news/2017/06/07/scientists-discover-a-2-d-magnet/" target="_blank">2-D magnetic material</a>.</p>
+<p>&#8220;We chose nanocrystals and ultrathin semiconductors because they promise to yield basic, fundamental and impactful discoveries in materials science,&#8221; said Gamelin. &#8220;And those advances will fuel new innovations and applications in growing industries — from quantum computing to clean energy.&#8221;</p>
+<p>Gamelin, Xu and Fu — along with assistant professor of chemistry <a href="https://depts.washington.edu/chem/people/faculty/cossairt.html" target="_blank">Brandi Cossairt</a> and electrical engineering professor <a href="http://www.ee.washington.edu/people/scott-t-dunham/" target="_blank">Scott Dunham</a> — represented the UW team in Washington, D.C., during the final leg of the multi-stage competition for NSF-MRSEC support. Funding for the UW&#8217;s Molecular Engineering Materials Center began Sept. 1. The NSF supports 20 MRSECs across the nation, and the UW&#8217;s is one of only two on the West Coast.</p>
+<p style="text-align: center">###</p>
+<p>For more information, contact Gamelin at <a href="mailto:gamelin@chem.washington.edu">gamelin@chem.washington.edu</a> or 206-685-0901.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.washington.edu/news/2017/09/25/uw-to-host-15-6m-nsf-funded-center-for-innovation-education-in-materials-science/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<enclosure url="http://www.washington.edu/news/files/2016/01/IMG_4058-S-150x150.jpg" length="6381" type="image/jpeg" />	</item>
+		<item>
+		<title>Scott Montgomery makes case for nuclear power in new book &#8216;Seeing the Light&#8217;</title>
+		<link>http://www.washington.edu/news/2017/09/21/scott-montgomery-makes-case-for-nuclear-power-in-new-book-seeing-the-light/</link>
+		<comments>http://www.washington.edu/news/2017/09/21/scott-montgomery-makes-case-for-nuclear-power-in-new-book-seeing-the-light/#comments</comments>
+		<pubDate>Thu, 21 Sep 2017 18:19:55 +0000</pubDate>
+		<dc:creator><![CDATA[UW News staff]]></dc:creator>
+				<category><![CDATA[Engineering]]></category>
+		<category><![CDATA[Environment]]></category>
+		<category><![CDATA[News releases]]></category>
+		<category><![CDATA[Politics and government]]></category>
+		<category><![CDATA[Science]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Jackson School of International Studies]]></category>
+		<category><![CDATA[Scott L. Montgomery]]></category>
+
+		<guid isPermaLink="false">http://www.washington.edu/news/?p=54793</guid>
+		<description><![CDATA[Scott L. Montgomery of the UW Jackson School of International Studies discusses his new book, "Seeing the Light: The Case for Nuclear power in the 21st Century." ]]></description>
+				<content:encoded><![CDATA[<div id="attachment_54795" class="wp-caption alignright" style="width: 385px"><a href="http://www.washington.edu/news/files/2017/09/2-seeing-the-light_cropped.jpg"><img class="size-half wp-image-54795" src="http://www.washington.edu/news/files/2017/09/2-seeing-the-light_cropped-375x574.jpg" alt="&quot;Seeing the Light: The Case for Nuclear Power in the 21st Century,&quot; by the UW's Scott L. Montgomery with Thomas Graham Jr., was published in September by Cambridge University Press. Story is a Q and A with Montgomery. " width="375" height="574" /></a></p>
+<p class="wp-caption-text">&#8220;Seeing the Light: The Case for Nuclear Power in the 21st Century,&#8221; by the UW&#8217;s Scott L. Montgomery with Thomas Graham Jr., was published in September by Cambridge University Press.</p>
+</div>
+<p>Nuclear power is not merely an energy option for the future, geoscientist <a href="https://jsis.washington.edu/people/scott-montgomery/">Scott L. Montgomery</a> writes in his new book, it is a life-saving and essential way for the world to provide energy and avoid &#8220;carbon and climate failure.&#8221;</p>
+<p>In &#8220;<a href="http://admin.cambridge.org/ck/academic/subjects/earth-and-environmental-science/environmental-policy-economics-and-law/seeing-light-case-nuclear-power-21st-century?format=PB#H3ld5ZCVHRhxZDv1.97">Seeing the Light: The Case for Nuclear power in the 21<sup>st</sup> Century</a>,&#8221; Montgomery, who is an affiliate with the University of Washington&#8217;s <a href="https://jsis.washington.edu/">Jackson School of International Studies</a>, writes that nuclear power is the most reliable form of energy in the world, with the smallest environmental impact and fewest related injuries and fatalities.</p>
+<p>&#8220;To say that it has saved a good many lives by replacing what would have been many hundreds of coal plants defines a clear truth,&#8221; Montgomery writes. He adds, &#8220;To say that its expansion will make this even more true in the future, when climate concerns are taken into account, is no less accurate.&#8221;</p>
+<p>Montgomery — who co-authored the book with Thomas Graham Jr. of the nuclear fuel technology company <a href="http://ltbridge.com/">Lightbridge Corporation</a> — answered a few questions about the book.</p>
+<p><strong>Public fear of nuclear power is a limiting factor to its expanded use, but you write that such fears are overblown, borne of myths and &#8220;dark fairy tales … from the fearful childhood of the Atomic Age.&#8221; In light of the accidents at Fukushima and Chernobyl, why should the public not fear nuclear power?<br />
+</strong></p>
+<p><strong>Scott L. Montgomery:</strong> First, I should say that it doesn’t help to blame or criticize people for being afraid. Public fear is a complex thing, with much history behind it, and I try to clarify this one of the book’s chapters. Yet it’s also true that this fear is a serious roadblock to progress against climate change and lethal air pollution. Moreover, some key reasons for not fearing nuclear power come from the very accidents you mention.</p>
+<p>We can say, as a broad average, that 300 power plant reactors have operated worldwide for 50 years. In all that time, three major accidents have occurred, only one of them — the poorly designed <a href="https://en.wikipedia.org/wiki/Chernobyl_disaster">Chernobyl</a> reactor — causing any radiation casualties. Multiple, long-term study documents 56 deaths and about 4,000 cases of thyroid cancer. Nearly all of these casualties were preventable if first responders had been warned and given protective equipment, and if people living in the greater affected area were given iodine pills and told not to drink the milk of their animals, which had fed on contaminated pasture. But even beyond this, research has repeatedly shown that by far the worst health effects from nuclear accidents come from trauma, PTSD, depression, stigmatization and other forms of mental distress — sourced in the dread of radiation itself.</p>
+<div class="info-box info-box-large">
+<blockquote><p><strong>&#8220;The United States stands to render itself a kind of super-pariah &#8230; spending hundreds of billions of dollars to upgrade its nuclear arsenal, maintaining an ability to destroy life on a global scale, while diminishing its ability to deal with climate change and to maintain the world’s competence in avoiding nuclear war.&#8221; </strong></p>
+<p><strong>&#8212; </strong>Scott L. Montgomery<br />
+&#8220;Seeing the Light: The Case for Nuclear Power in the 21st Century&#8221;</p>
+</blockquote>
+</div>
+<p>Coal use has little of such dread, yet today causes over 1.5 million premature deaths worldwide, including more than 3,000 in the United States. No member of the U.S. public has ever been injured by radiation from a nuclear power plant, including <a href="https://en.wikipedia.org/wiki/Three_Mile_Island_accident">Three Mile Island</a>. Meanwhile, many hundreds have been killed since the 1940s by failures of hydroelectric dams, explosions at oil/gas facilities and air pollution due to diesel and gasoline use.</p>
+<p><strong>You write that the West still views itself as the center of the nuclear power landscape, but this is no longer the case. What is happening instead?</strong></p>
+<p>In September 2017, 58 new reactors are being built, with 160 more planned, and over 350 more proposed. Most of this activity is in China, Russia and India, but also in Argentina, Brazil, Chile, Nigeria, Ghana, Kazakhstan, Turkey, Jordan, Egypt, United Arab Emirates, Saudi Arabia, Pakistan and Indonesia, among others.</p>
+<p>China is especially important, as it has major plans for new types of reactors and for exports. The same is true of Russia and possibly South Korea.</p>
+<p><strong>How can safety in nuclear power be assured in developing countries, and in places like China and North Korea?</strong></p>
+<p>While there are concerns about nuclear power being acquired by nations in conflict zones, with high levels of corruption, low transparency and state support for terrorist activity, there are also measures in place to minimize related problems. Any country that belongs to the <a href="https://en.wikipedia.org/wiki/Treaty_on_the_Non-Proliferation_of_Nuclear_Weapons">Nuclear Non-Proliferation Treaty</a> (189 do; Israel, India, Pakistan, and North Korea do not) can only develop a nuclear program under the auspices and close, detailed guidance of the International Atomic Energy Agency, while remaining open at all times to expert inspections. China is on good terms with that agency and is itself extremely concerned about the quality of its nuclear power plants, especially in the wake of <a href="https://en.wikipedia.org/wiki/Fukushima_Daiichi_nuclear_disaster">Fukushima</a>. The government has major long-term plans for nuclear power — there has been talk of China building perhaps as many as 500 reactors or more this century — and is very concerned about accidents.</p>
+<p>As for North Korea, no one outside the inner circle of that country’s power elite can assure anything. Right now North Korea has no nuclear power, only a small research reactor able to generate plutonium.</p>
+<p>Such a reactor was dismantled in Iran as part of the nuclear deal. Also removed was that country’s supply of moderate enriched uranium, most of its centrifuges (for enrichment), and connection between cascades of its remaining centrifuges. Sanctions had a major negative impact on the country’s economy, helping bring it to the negotiating table and providing a sobering example for other nations. North Korea, meantime, is an example for no one.</p>
+<p><strong>You write that in 2007 the world crossed a key threshold, with the number of people living in cities surpassing the number living in rural areas. How are urbanization and nuclear power connected? What is the meaning of that connection to the future of nuclear power?</strong></p>
+<div id="attachment_54797" class="wp-caption alignright" style="width: 210px"><a href="http://www.washington.edu/news/files/2017/09/scott-montgomery-200x250.jpg"><img class="size-full wp-image-54797" src="http://www.washington.edu/news/files/2017/09/scott-montgomery-200x250.jpg" alt="Scott L. Montgomery head shot " width="200" height="250" /></a></p>
+<p class="wp-caption-text">Scott L. Montgomery</p>
+</div>
+<p>These are essential questions. Population experts forecast that as much as 70 percent of humanity could live in cities by 2040, most with populations of 500,000 or more, and over 700 urban areas having at least a million people.</p>
+<p>Cities, we know, are huge centers of energy use, electricity above all else. This is being accelerated by the spread of IT and the diversification and expansion of the service sector in most of the world’s economies. It will receive a significant surge in demand if electric cars become mainstream.</p>
+<p>As things stand now, climate change and urbanization are in a mutually reinforcing loop. Carbon sources — coal and natural gas — are used for most new power plants worldwide, with non-carbon sources, such as renewables, lagging far behind.</p>
+<p>It is a dangerous fantasy to believe that solar and wind power can both replace existing carbon sources and satisfy the massive new power demands on the horizon. These and other renewable sources are necessary and must be supported and incentivized. But unless you live in the fairyland of idealized computer models, renewables will need lots of help for the future.</p>
+<p>Big cities require enormous amounts of steady power at all hours, no matter what the weather. Nuclear is by far the best source to match this and is able to stabilize grid systems as they continue to add intermittent solar and wind power systems. A sustainable, non-carbon, highly urbanized future depends upon the combined use of renewables and nuclear power.</p>
+<p><strong>While other nations plan new reactors, as of 2016, you write, more reactors are being shut down in the United States than are being built. You ask, will the west join the new nuclear era or be left behind? What are the dangers of the U.S. falling behind?</strong></p>
+<p>There are many, but let me just mention a few to give a sense of what’s involved. First, nuclear power represents 60 percent of all non-carbon electricity generated in the U.S. Allowing it to decay away makes as much sense in the face of climate change as providing large subsidies to coal-fired power.</p>
+<p>Second, the U.S. has been the global leader in nuclear science, technology, and nonproliferation for more than 60 years. Letting our reactor fleet go dark, one plant at a time, is to give up this leadership role, leaving it to China and Russia.</p>
+<p>Also, an important safeguard for new nuclear power countries is the <a href="https://en.wikipedia.org/wiki/Section_123_Agreement">123 Agreement</a>, by which a nation is granted access to U.S. expertise and technology in exchange for certain nonproliferation guarantees. This powerful tool will weaken as the U.S. retreats from its standing as a global leader. Can we assume China or Russia will adopt such a key role?</p>
+<p>Not participating in the new nuclear era at any significant level also means that, in essence, the U.S. does not take the climate challenge seriously. It is a form of climate change denial, nothing less.</p>
+<p>Finally, the U.S. stands to render itself a kind of super-pariah in this context. This means spending hundreds of billions of dollars to upgrade its nuclear arsenal, maintaining an ability to destroy life on a global scale, while diminishing its ability to deal with climate change and to maintain the world’s competence in avoiding nuclear war.</p>
+<p><strong>You describe a new era of nuclear power plants that are &#8220;cheaper to build, easier to operate, much more efficient, proliferation resistant, and producing less waste.&#8221; What are the best practices for dealing with waste?</strong></p>
+<p>It’s been known for many years that nuclear waste isn’t a technical problem but a psychological-political one. We’re all familiar with <a href="https://en.wikipedia.org/wiki/Yucca_Mountain_nuclear_waste_repository">Yucca Mountain</a> and the presumed dangers of nuclear waste, but how many Americans know that billions of gallons of industrial waste, some of it highly toxic and lethal, are injected underground every year at hundreds of sites, such as chemical plants, pesticide manufacturers, and oil refineries located on the margins of ports, towns, and cities across the country?</p>
+<p>This happens with barely a whimper of resistance at the national level. High-level nuclear waste in the U.S. amounts to about 88,000 metric tons, which would fill a football field to a depth of about 30 feet. In comparison, over 5 million tons of highly toxic chemical substances and waste are produced each year and are stored onsite.</p>
+<p>There is a strong international consensus that waste is best handled by underground storage in a geologic repository. This was mandated in the 1980s by U.S. law to be achieved by 1998, but local groups in candidate states mobilized effectively against it and convinced senators and members of Congress they would lose their seats if they supported such a repository. Yucca Mountain became the chosen site because at the time it had the politically weakest Congressional delegation.</p>
+<p>That changed in 2008, when <a href="https://en.wikipedia.org/wiki/Harry_Reid">Harry Reid</a> became the Senate Majority Leader and forced President Obama to take Yucca off the menu. Today, there exists a storage site, the Waste Isolation Pilot Project, in thick-bedded salt in southeast New Mexico, but it only accepts low-level waste, not the high-level waste that really needs deep storage.</p>
+<p>Fortunately, a precedent is being set in Finland, where a repository in granite for all types of waste will soon open at <a href="https://en.wikipedia.org/wiki/Olkiluoto_Nuclear_Power_Plant">Oikiluoto</a>. This site has three operating reactors at two power plants. The local community is strongly behind the effort.</p>
+<p>Nuclear power is a unique technology for modern society, as we have concentrated a great number of our fears about the present and future in it, including our anxieties about the destruction of humanity itself.</p>
+<p>But we now have 60 years of evidence that such fears are unfounded. And we have evidence that a very different global threat is real &#8212; a threat moreover that nuclear power can act directly to significantly reduce.</p>
+<p>As our book says, it is definitely time for us to become sensible about these realities, in our own interest and survival.</p>
+<p style="text-align: center">###</p>
+<p>Questions by Peter Kelley of UW News. For more information about Montgomery and his book, contact him at <a href="mailto:scottlm@uw.edu">scottlm@uw.edu</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.washington.edu/news/2017/09/21/scott-montgomery-makes-case-for-nuclear-power-in-new-book-seeing-the-light/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<enclosure url="http://www.washington.edu/news/files/2017/09/2-seeing-the-light_cropped-150x150.jpg" length="7414" type="image/jpeg" />	</item>
+		<item>
+		<title>People of color exposed to more pollution from cars, trucks, power plants during 10-year period</title>
+		<link>http://www.washington.edu/news/2017/09/14/people-of-color-exposed-to-more-pollution-from-cars-trucks-power-plants-during-10-year-period/</link>
+		<comments>http://www.washington.edu/news/2017/09/14/people-of-color-exposed-to-more-pollution-from-cars-trucks-power-plants-during-10-year-period/#comments</comments>
+		<pubDate>Thu, 14 Sep 2017 15:02:44 +0000</pubDate>
+		<dc:creator><![CDATA[Jennifer Langston]]></dc:creator>
+				<category><![CDATA[Engineering]]></category>
+		<category><![CDATA[Health and medicine]]></category>
+		<category><![CDATA[News releases]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[Science]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[College of Engineering]]></category>
+		<category><![CDATA[Department of Civil & Environmental Engineering]]></category>
+		<category><![CDATA[Julian Marshall]]></category>
+
+		<guid isPermaLink="false">http://www.washington.edu/news/?p=54249</guid>
+		<description><![CDATA[A new nationwide study finds that the U.S. made little progress from 2000 to 2010 in reducing relative disparities between people of color and whites in exposure to harmful air pollution emitted by cars, trucks and other combustion sources.]]></description>
+				<content:encoded><![CDATA[<p>A new nationwide study finds that the U.S. made little progress from 2000 to 2010 in reducing relative disparities between people of color and whites in exposure to harmful air pollution emitted by cars, trucks and other combustion sources.</p>
+<p>The groundbreaking study led by University of Washington researchers estimated exposure to outdoor concentrations of a transportation-related pollutant — <a href="https://www.epa.gov/no2-pollution">nitrogen dioxide</a> (NO<sub>2</sub>) — in both 2000 and 2010, based on neighborhoods where people live. It found disparities in NO<sub>2</sub> exposure were larger by race and ethnicity than by income, age or education, and that relative inequality persisted across the decade.</p>
+<p>While absolute differences in exposure to the air pollutant dropped noticeably during that time period for all populations, the relative difference — or the percent difference between pollution levels to which white people and people of color were exposed — narrowed only a little.</p>
+<p><iframe width="750" height="422" src="https://www.youtube.com/embed/8CZqMgMt6Fo?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p><a href="https://ehp.niehs.nih.gov/EHP959/" target="_blank">The study</a> was published Sept. 14 in <a href="https://ehp.niehs.nih.gov/">Environmental Health Perspectives</a>. The researchers developed a first-of-its-kind model that combines satellite and regulatory measurements with land use data to predict pollution at a neighborhood level throughout the United States.</p>
+<p>The positive news is that across the U.S., average exposure to NO<sub>2</sub> for all races and income levels dropped from 2000 to 2010. Measured in parts per billion (ppb), estimated average annual NO<sub>2</sub> exposure decreased from 17.6 to 10.7 ppb for nonwhite populations, and from 12.6 to 7.8 ppb for white populations.</p>
+<p>Yet people of color were, on average, consistently exposed to more air pollution than their white non-Hispanic counterparts during the decade. Considering relative differences, nonwhites experienced 40 percent higher exposures than whites in 2000; in 2010, that gap shrunk only slightly, to 37 percent.  Furthermore, in 2000, concentrations of NO<sub>2</sub> in neighborhoods with the highest proportion of nonwhite residents were 2.5 times higher than in neighborhoods with the lowest proportion of nonwhite residents. In 2010, that value increased slightly, to 2.7 times higher.</p>
+<p>The study concludes that if people of color had breathed the lower NO<sub>2</sub> levels experienced by whites in 2010, it would have prevented an estimated 5,000 premature deaths from heart disease among the nonwhite group.</p>
+<p>“The finding that shocks us is that when it comes to how much NO<sub>2</sub> a person breathes, it’s still race that matters,” said senior author <a href="http://depts.washington.edu/airqual/">Julian Marshall</a>, UW professor of civil and environmental engineering. “At any income level — low to medium to high — there’s a persistent gap by race, which is completely indefensible. It says a lot about how segregated neighborhoods still are and how things are segregated.”</p>
+<div id="attachment_54258" class="wp-caption aligncenter" style="width: 760px"><a href="http://www.washington.edu/news/files/2017/07/NO2-maps.jpg"><img class="size-full-content wp-image-54258" src="http://www.washington.edu/news/files/2017/07/NO2-maps-750x541.jpg" alt="In columns A and B, red identifies locations where NO2 concentrations were higher for nonwhites than whites; blue indicates that NO2 concentrations were higher for whites than nonwhites; and white means they were equal. In column C, red indicates that the absolute difference in NO2 concentration between nonwhites and whites increased over time; blue indicates that difference decreased over time; and white indicates no change." width="750" height="541" /></a></p>
+<p class="wp-caption-text">In columns A and B, red identifies locations where NO2 concentrations were higher for nonwhites than whites; blue indicates that NO2 concentrations were higher for whites than nonwhites; and white means they were equal. In column C, red indicates that the absolute difference in NO2 concentration between nonwhites and whites increased over time; blue indicates that difference decreased over time; and white indicates no change.<span class="wp-media-credit">University of Washington</span></p>
+</div>
+<p>&nbsp;</p>
+<p>NO<sub>2</sub> comes from sources such as vehicle exhaust, power plants and off-road equipment and is one of six important “criteria air pollutants” monitored by the Environmental Protection Agency. It has been linked to <a href="https://www.epa.gov/no2-pollution/basic-information-about-no2#Effects">asthma symptoms, increased susceptibility to respiratory problems and heart disease</a>.</p>
+<p>The research team, which began their work at the University of Minnesota, <a href="https://www.washingtonpost.com/news/wonk/wp/2014/04/15/pollution-is-substantially-worse-in-minority-neighborhoods-across-the-u-s/?utm_term=.3f2b3161bc68">previously analyzed NO<sub>2</sub> concentrations for the year 2006</a> by race, income and other demographic factors identified in the U.S. Census. The team’s <a href="http://pubs.acs.org/doi/abs/10.1021/acs.est.5b02882">air pollution model</a>, which combines existing EPA air quality monitoring and satellite data with detailed land use information, allows them to accurately predict pollution concentrations across the country at the U.S. Census block level — information previously unavailable at that scale.</p>
+<p>In this first longitudinal study of its kind, researchers wanted to examine how much progress was made in addressing inequalities in NO<sub>2</sub> exposure over a decade. They compared environmental injustice metrics in 2000 and 2010 on a national basis and by region, state, county and urban areas.</p>
+<p>On the whole, researchers said, policies to reduce NO<sub>2</sub> air pollution are working. But the finding that exposure differences are larger by race and ethnicity than by income, age or education was equally true in 2010 as in 2000.</p>
+<p>“Everyone benefited from clean air regulations and less pollution; that’s the good news,” said lead author and UW civil and environmental engineering doctoral student <a href="https://depts.washington.edu/airqual/people.php">Lara Clark</a>. “But the fact that there is a pervasive gap in exposure to NO<sub>2</sub> by race — and that the relative gap was more or less preserved over a decade — is the bad news.”</p>
+<p>The UW study did not explore the underlying reasons for that gap, but its findings are consistent with previous research. Both racial minorities and low-income households are disproportionately likely to <a href="http://www.sciencedirect.com/science/article/pii/S1361920913001107">live near a major road</a> where <a href="http://pubs.acs.org/doi/abs/10.1021/es100008x">transportation-related pollution is typically highest</a>. U.S. cities, in general, also tend to be <a href="https://cepa.stanford.edu/sites/default/files/reardon%20fox%20townsend%20neighborhood%20income%20composition%20final%20submitted%20AAAPSS%20%202014.pdf">more segregated by race and ethnicity than by income</a>.</p>
+<p>The UW team did conclude that the narrowing of the racial gap in NO<sub>2</sub> exposures was driven more by improving air quality than by demographic changes over the 10-year period.</p>
+<p>“That suggests that air pollution is coming down faster than cities are becoming less segregated,” Marshall said.</p>
+<p>Next steps for the research team include looking at how changes in demographics, industry and urban form at the city level affect NO<sub>2</sub> exposure, and developing similar models for other EPA criteria air pollutants.</p>
+<p>The study was co-authored by <a href="https://www.swac.umn.edu/directory/faculty/dylan-millet">Dylan B. Millet</a>, professor in the University of Minnesota’s Department of Soil, Water and Climate.</p>
+<p>The research was funded by the National Science Foundation and the Environmental Protection Agency.</p>
+<p>For more information, contact Marshall at <a href="mailto:jdmarsh@uw.edu">jdmarsh@uw.edu</a> or Clark at <a href="mailto:lpclark@uw.edu">lpclark@uw.edu</a>.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.washington.edu/news/2017/09/14/people-of-color-exposed-to-more-pollution-from-cars-trucks-power-plants-during-10-year-period/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<enclosure url="http://www.washington.edu/news/files/2017/07/NO2-maps-150x150.jpg" length="11673" type="image/jpeg" />	</item>
+		<item>
+		<title>UW team shatters long-range communication barrier for devices that consume almost no power</title>
+		<link>http://www.washington.edu/news/2017/09/13/uw-team-shatters-long-range-communication-barrier-for-devices-that-consume-almost-no-power/</link>
+		<comments>http://www.washington.edu/news/2017/09/13/uw-team-shatters-long-range-communication-barrier-for-devices-that-consume-almost-no-power/#comments</comments>
+		<pubDate>Wed, 13 Sep 2017 16:04:12 +0000</pubDate>
+		<dc:creator><![CDATA[Jennifer Langston]]></dc:creator>
+				<category><![CDATA[Engineering]]></category>
+		<category><![CDATA[News releases]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[Science]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Department of Electrical Engineering]]></category>
+		<category><![CDATA[Joshua Smith]]></category>
+		<category><![CDATA[Paul G. Allen School of Computer Science & Engineering]]></category>
+		<category><![CDATA[Shyam Gollakota]]></category>
+
+		<guid isPermaLink="false">http://www.washington.edu/news/?p=54705</guid>
+		<description><![CDATA[UW researchers have demonstrated for the first time that devices that run on almost zero power can transmit data across distances of up to 2.8 kilometers — breaking a long-held barrier and potentially enabling a vast array of interconnected devices.]]></description>
+				<content:encoded><![CDATA[<div id="attachment_54711" class="wp-caption alignright" style="width: 385px"><a href="http://www.washington.edu/news/files/2017/09/LoRa-backscatter-sensor.jpg"><img class="size-half wp-image-54711" src="http://www.washington.edu/news/files/2017/09/LoRa-backscatter-sensor-375x250.jpg" alt="In the long-range backscatter system developed by UW researchers, this sensor uses reflected radio waves to encode and communicate information using almost zero power. It can “talk” to a receiver up to 2.8 km away." width="375" height="250" /></a></p>
+<p class="wp-caption-text">In the long-range backscatter system developed by UW researchers, this sensor allows devices that run on extremely low power for the first time to communicate over long distances..<span class="wp-media-credit">Dennis Wise/University of Washington</span></p>
+</div>
+<p>University of Washington researchers have demonstrated for the first time that devices that run on almost zero power can transmit data across distances of up to 2.8 kilometers — breaking a long-held barrier and potentially enabling a vast array of interconnected devices.</p>
+<p>For example, flexible electronics — from knee patches that capture range of motion in arthritic patients to patches that use sweat to detect fatigue in athletes or soldiers — hold great promise for collecting medically relevant data.</p>
+<p>But today’s flexible electronics and other sensors that can’t employ bulky batteries and need to operate with very low power typically can’t communicate with other devices more than a few feet or meters away. This limits their practical use in applications ranging from medical monitoring and home sensing to smart cities and precision agriculture.</p>
+<p><iframe width="750" height="422" src="https://www.youtube.com/embed/Y6w4AJbRJcA?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p>By contrast, the UW’s <a href="http://longrange.cs.washington.edu/">long-range backscatter system</a>, which uses reflected radio signals to transmit data at extremely low power and low cost, achieved reliable coverage throughout 4800-square-foot house, an office area covering 41 rooms and a one-acre vegetable farm. The system is detailed in a <a href="http://longrange.cs.washington.edu/files/loRaBackscatter.pdf">paper</a> to be presented Sept. 13 at <a href="http://ubicomp.org/ubicomp2017/">UbiComp 2017</a>.</p>
+<div id="attachment_54708" class="wp-caption alignleft" style="width: 385px"><a href="http://www.washington.edu/news/files/2017/09/LoRa-backscatter-epidermal-patch.jpg"><img class="size-half wp-image-54708" src="http://www.washington.edu/news/files/2017/09/LoRa-backscatter-epidermal-patch-375x250.jpg" alt="Photo of flexible epidermal patch" width="375" height="250" /></a></p>
+<p class="wp-caption-text">The research team built this flexible epidermal patch prototype — which could be used to collect and wirelessly transmit useful medical data — that successfully transmitted information across a 3,300 square-foot atrium.<span class="wp-media-credit">Dennis Wise/University of Washington</span></p>
+</div>
+<p>“Until now, devices that can communicate over long distances have consumed a lot of power. The tradeoff in a low-power device that consumes microwatts of power is that its communication range is short,” said <a href="https://homes.cs.washington.edu/~gshyam/">Shyam Gollakota</a>, lead faculty and associate professor in the Paul G. Allen School of Computer Science &amp; Engineering. “Now we’ve shown that we can offer both, which will be pretty game-changing for a lot of different industries and applications.”</p>
+<p>The team’s latest long-range backscatter system provides reliable long-range communication with sensors that consume 1000 times less power than existing technologies capable of transmitting data over similar distances. It’s an important and necessary breakthrough toward embedding connectivity into billions of everyday objects.</p>
+<p>The long-range backscatter system will be commercialized by <a href="https://www.jeevawireless.com/">Jeeva Wireless</a>, a spin-out company founded by the UW team of computer scientists and electrical engineers, which expects to begin selling it within six months.</p>
+<div id="attachment_54706" class="wp-caption alignright" style="width: 385px"><a href="http://www.washington.edu/news/files/2017/09/LoRa-backscatter-range.jpg"><img class="size-half wp-image-54706" src="http://www.washington.edu/news/files/2017/09/LoRa-backscatter-range-375x563.jpg" alt="photo of LoRa backscatter system on farm" width="375" height="563" /></a></p>
+<p class="wp-caption-text">The communication range of many low-power devices is limited to several feet. The UW’s long-range backscatter system’s sensor (shown in the foreground) was able to communicate with a receiver (held in the distant background) throughout a one-acre farm, a 4,800-square-foot house and an office area covering 41 rooms.<span class="wp-media-credit">Dennis Wise/University of Washington</span></p>
+</div>
+<p>The sensors are so cheap — with an expected bulk cost of 10 to 20 cents each — that farmers looking to measure soil temperature or moisture could affordably blanket an entire field to determine how to efficiently plant seeds or water. Other potential applications range from sensor arrays that could monitor pollution, noise or traffic in “smart” cities or medical devices that could wirelessly transmit information about a heart patient’s condition around the clock.</p>
+<p>“People have been talking about embedding connectivity into everyday objects such as laundry detergent, paper towels and coffee cups for years, but the problem is the cost and power consumption to achieve this,” said <a href="http://vamsitalla.com.s3-website-us-west-1.amazonaws.com/">Vamsi Talla</a>, CTO of Jeeva Wireless, who was an Allen School postdoctoral researcher and received a doctorate in electrical engineering from the UW. “This is the first wireless system that can inject connectivity into any device with very minimal cost.”</p>
+<p>The research team, for instance, built a contact lens prototype and a flexible epidermal patch that attaches to human skin, which successfully used long-range backscatter to transmit information across a 3300-square-foot atrium. That’s orders of magnitude larger than the 3-foot range achieved by prior smart contact lens designs.</p>
+<div id="attachment_54707" class="wp-caption alignleft" style="width: 385px"><a href="http://www.washington.edu/news/files/2017/09/LoRa-backscatter-system.jpg"><img class="size-half wp-image-54707" src="http://www.washington.edu/news/files/2017/09/LoRa-backscatter-system-375x250.jpg" alt="Photo of long-range backscatter system" width="375" height="250" /></a></p>
+<p class="wp-caption-text">The long-range backscatter system uses a source that emits a radio signal, low-power sensors that encode information in reflected signals and an off-the-shelf receiver.<span class="wp-media-credit">Dennis Wise/University of Washington</span></p>
+</div>
+<p>The system has three components: a source that emits a radio signal, sensors that encode information in reflections of that signal and an inexpensive off-the-shelf receiver that decodes the information. When the sensor is placed between the source and receiver, the system can transmit data at distances up to 475 meters. When the sensor is placed next to the signal source, the receiver can decode information from as far as 2.8 kilometers away.</p>
+<p>The advantage to using reflected, or “backscattered,” radio signals to convey information is a sensor can run on extremely low power that can be provided by thin cheap flexible printed batteries or can be harvested from ambient sources — eliminating the need for bulky batteries. The disadvantage is that it’s difficult for a receiver to distinguish these extremely weak reflections from the original signal and other noise.</p>
+<div id="attachment_54713" class="wp-caption alignright" style="width: 385px"><a href="http://www.washington.edu/news/files/2017/09/LoRa-backscatter-contact-lens.jpg"><img class="size-half wp-image-54713" src="http://www.washington.edu/news/files/2017/09/LoRa-backscatter-contact-lens-375x250.jpg" alt="photo of contact lens prototype" width="375" height="250" /></a></p>
+<p class="wp-caption-text">The UW team also transmitted information across a 3,300 square foot atrium using this “smart” contact lens prototype.<span class="wp-media-credit">Dennis Wise/University of Washington</span></p>
+</div>
+<p>“It’s like trying to listen to a conversation happening on the other side of a thick wall — you might hear some faint voices but you can’t quite make out the words,” said <a href="http://mehrdadhessar.com">Mehrdad Hessar</a>, an Allen School doctoral student. “With our new technology we can essentially decode those words even when the conversation itself is hard to hear.”</p>
+<p>To overcome the problem, the UW team introduced a new type of modulation — called <a href="https://en.wikipedia.org/wiki/Chirp_spread_spectrum">chirp spread spectrum</a> — into its backscatter design. Spreading the reflected signals across multiple frequencies allowed the team to achieve much greater sensitivities and decode backscattered signals across greater distances even when it’s below the noise.</p>
+<div id="attachment_54714" class="wp-caption alignleft" style="width: 385px"><a href="http://www.washington.edu/news/files/2017/09/LoRa-backscatter-team.jpg"><img class="size-half wp-image-54714" src="http://www.washington.edu/news/files/2017/09/LoRa-backscatter-team-375x250.jpg" alt="photo of research team" width="375" height="250" /></a></p>
+<p class="wp-caption-text">The long-range backscatter research team includes former UW electrical engineering doctoral students Bryce Kellogg (left), Vamsi Talla (center) and Allen School doctoral student Mehrdad Hessar (right).<span class="wp-media-credit">Dennis Wise/University of Washington</span></p>
+</div>
+<p>“We basically started with a clean slate and said if what we really need to enable smart applications is long-range communication, how could we design the system from the ground up to achieve that goal?” said <a href="http://staff.washington.edu/kellogg/">Bryce Kellogg</a>, a co-founder at Jeeva Wireless who was a UW electrical engineering student.</p>
+<p>The research was funded by the National Science Foundation.</p>
+<p>Co-authors include <a href="https://sensor.cs.washington.edu/jrs.html">Joshua Smith</a>, professor in the Allen School and the UW Department of Electrical Engineering, and UW electrical engineering doctoral student <a href="https://www.linkedin.com/in/ali-najafi-9b7b7931/">Ali Najafi</a>.</p>
+<p>For more information, contact the research team at <a href="mailto:longrange@cs.washington.edu">longrange@cs.washington.edu</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.washington.edu/news/2017/09/13/uw-team-shatters-long-range-communication-barrier-for-devices-that-consume-almost-no-power/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<enclosure url="http://www.washington.edu/news/files/2017/09/LoRa-backscatter-sensor-150x150.jpg" length="8901" type="image/jpeg" />	</item>
+		<item>
+		<title>PupilScreen aims to allow parents, coaches, medics to detect concussion, brain injuries with a smartphone</title>
+		<link>http://www.washington.edu/news/2017/09/06/pupilscreen-aims-to-allow-parents-coaches-medics-to-detect-concussion-brain-injuries-with-a-smartphone/</link>
+		<comments>http://www.washington.edu/news/2017/09/06/pupilscreen-aims-to-allow-parents-coaches-medics-to-detect-concussion-brain-injuries-with-a-smartphone/#comments</comments>
+		<pubDate>Wed, 06 Sep 2017 15:48:53 +0000</pubDate>
+		<dc:creator><![CDATA[Jennifer Langston]]></dc:creator>
+				<category><![CDATA[Engineering]]></category>
+		<category><![CDATA[Health and medicine]]></category>
+		<category><![CDATA[News releases]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[Science]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[College of Engineering]]></category>
+		<category><![CDATA[Department of Electrical Engineering]]></category>
+		<category><![CDATA[Paul G. Allen School of Computer Science & Engineering]]></category>
+		<category><![CDATA[Shwetak Patel]]></category>
+		<category><![CDATA[UW Medicine]]></category>
+
+		<guid isPermaLink="false">http://www.washington.edu/news/?p=54603</guid>
+		<description><![CDATA[University of Washington researchers are developing a smartphone app that is capable of objectively detecting concussion and other traumatic brain injuries in the field, which could provide a new level of screening for athletes and accident victims.]]></description>
+				<content:encoded><![CDATA[<div id="attachment_54605" class="wp-caption alignright" style="width: 385px"><a href="http://www.washington.edu/news/files/2017/08/PupilScreen-main.jpg"><img class="size-half wp-image-54605" src="http://www.washington.edu/news/files/2017/08/PupilScreen-main-375x250.jpg" alt="photo of pupilscreen in use" width="375" height="250" /></a></p>
+<p class="wp-caption-text">PupilScreen aims to allow anyone with a smartphone to objectively screen for concussion and other brain injuries on the spot — whether on the sidelines of a sports game or at an accident site.<span class="wp-media-credit">Dennis Wise/University of washington</span></p>
+</div>
+<p>University of Washington researchers are developing the first smartphone app that is capable of objectively detecting concussion and other traumatic brain injuries in the field: on the sidelines of a sports game, on a battlefield or in the home of an elderly person prone to falls.</p>
+<p><a href="https://ubicomplab.cs.washington.edu/publications/pupilscreen/">PupilScreen</a> can detect changes in a pupil’s response to light using a smartphone’s video camera and deep learning tools — a type of artificial intelligence — that can quantify changes imperceptible to the human eye.</p>
+<p>This pupillary light reflex has long been used to assess whether a patient has severe traumatic brain injury, and <a href="http://www.tandfonline.com/doi/full/10.1080/02699052.2016.1195922">recent research</a> finds it can be useful in detecting milder concussions — opening up an entirely new avenue for screening.</p>
+<p>The team of UW computer scientists, electrical engineers and medical researchers has demonstrated that PupilScreen can be used to detect instances of significant traumatic brain injury.  A broader clinical study this fall will put PupilScreen in the hands of coaches, emergency medical technicians, doctors and others to gather more data on which pupillary response characteristics are most helpful in determining ambiguous cases of concussion. The researchers hope to release a commercially available version of PupilScreen within two years.</p>
+<p><iframe width="750" height="422" src="https://www.youtube.com/embed/sZwgpz4s8Jw?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p>“Having an objective measure that a coach or parent or anyone on the sidelines of a game could use to screen for concussion would truly be a game-changer,” said <a href="https://homes.cs.washington.edu/~shwetak/">Shwetak Patel</a>, the Washington Research Foundation Endowed Professor of Computer Science &amp; Engineering and of Electrical Engineering at the UW. “Right now the best screening protocols we have are still subjective, and a player who really wants to get back on the field can find ways to game the system.”</p>
+<div id="attachment_54606" class="wp-caption alignleft" style="width: 385px"><a href="http://www.washington.edu/news/files/2017/08/PupilScreen-normal-output.jpg"><img class="size-half wp-image-54606" src="http://www.washington.edu/news/files/2017/08/PupilScreen-normal-output-375x250.jpg" alt="photo of pupilscreen output on phone" width="375" height="250" /></a></p>
+<p class="wp-caption-text">PupilScreen can currently distinguish between the pupillary light reflex of healthy people (shown above) and patients with severe traumatic brain injury. Additional studies will help determine what characteristics are most useful in detecting milder concussions.<span class="wp-media-credit">Dennis Wise/University of Washington</span></p>
+</div>
+<p>As described in a <a href="https://ubicomplab.cs.washington.edu/pdfs/pupilscreen.pdf">paper</a> to be presented Sept. 13 at <a href="http://ubicomp.org/ubicomp2017/">Ubicomp 2017</a>, PupilScreen can assess a patient’s pupillary light reflex almost as well as a pupilometer, an expensive and rarely used machine found only in hospitals. It uses the smartphone’s flash to stimulate the patient’s eyes and the video camera to record a three-second video.</p>
+<p>The video is processed using deep learning algorithms that can determine which pixels belong to the pupil in each video frame and measure the changes in pupil size across those frames. In a small pilot study that combined 48 results from patients with traumatic brain injury and from healthy people, clinicians were able to diagnose the brain injuries with almost perfect accuracy using the app’s output alone.</p>
+<p>In amateur sports today, even the best practices that coaches or parents use if an athlete is suspected of a concussion during a game — asking them where they are, to repeat a list of words, balancing, touching a finger to their nose — essentially consist of subjective assessment. By contrast, PupilScreen aims to generate objective and clinically relevant data that anyone on the sidelines could use to determine whether a player should be further assessed for concussion or other brain injury.</p>
+<p>The U.S. Centers for Disease Control and Prevention estimates about <a href="http://bjsm.bmj.com/content/47/1/15">half of the 3.8 million concussions per year</a> in the U.S. from recreational sports injuries alone still go undiagnosed, putting millions of young players and adults at risk for future head injury and permanent cognitive deficits.</p>
+<div id="attachment_54610" class="wp-caption alignleft" style="width: 385px"><a href="http://www.washington.edu/news/files/2017/08/PupilScreen-UW-Medicine-team.jpg"><img class="size-half wp-image-54610" src="http://www.washington.edu/news/files/2017/08/PupilScreen-UW-Medicine-team-375x250.jpg" alt="photo of UW Medicine doctors" width="375" height="250" /></a></p>
+<p class="wp-caption-text">UW Medicine residents who collaborated with the UW UbiComp Lab on PupilScreen are Dr. Tony Law of the Department of Otolaryngology – Head and Neck Surgery (left) and Dr. Lynn McGrath of the Department of Neurological Surgery (right).<span class="wp-media-credit">Dennis Wise/University of Washington</span></p>
+</div>
+<p>Historically, there’s been no surefire way to diagnose concussion — even in the emergency room, said co-author Dr. <a href="http://depts.washington.edu/neurosur/bio/lynn-mcgrath-md">Lynn McGrath</a>, a resident physician in UW Medicine’s Department of Neurological Surgery. Doctors usually run tests to rule out worst cases like a brain bleed or skull fracture. After more serious head injuries are excluded, a diagnosis of concussion can be made.</p>
+<p>Medical professionals have long used the pupillary light reflex — usually in the form of a penlight test where they shine a light into a patient’s eyes — to assess severe forms of brain injury. But a growing body of medical research has recently found that more subtle changes in pupil response can be useful in detecting milder concussions.</p>
+<p>“PupilScreen aims to fill that gap by giving us the first capability to measure an objective biomarker of concussion in the field,” McGrath said. “After further testing, we think this device will empower everyone from Little League coaches to NFL doctors to emergency department physicians to rapidly detect and triage head injury.”</p>
+<div id="attachment_54607" class="wp-caption alignleft" style="width: 385px"><a href="http://www.washington.edu/news/files/2017/08/PupilScreen-with-box.jpg"><img class="size-half wp-image-54607" src="http://www.washington.edu/news/files/2017/08/PupilScreen-with-box-375x250.jpg" alt="photo of pupilscreen used with 3-D printed box" width="375" height="250" /></a></p>
+<p class="wp-caption-text">Researchers initially tested PupilScreen with a 3-D printed box that controls the eye’s exposure to light, but the goal is to obtain accurate results with a smartphone&#8217;s camera alone.<span class="wp-media-credit">Dennis Wise/University of Washington</span></p>
+</div>
+<p>While the UW team initially tested PupilScreen with a 3-D printed box to control the eye’s exposure to light, researchers are now training their machine learning neural network to produce similar results with the smartphone camera alone.</p>
+<p>“The vision we’re shooting for is having someone simply hold the phone up and use the flash. We want every parent, coach, caregiver or EMT who is concerned about a brain injury to be able to use it on the spot without needing extra hardware,” said lead author <a href="https://atm15.github.io/">Alex Mariakakis</a>, a doctoral student in the Paul G. Allen School of Computer Science &amp; Engineering.</p>
+<div id="attachment_54613" class="wp-caption alignright" style="width: 385px"><a href="http://www.washington.edu/news/files/2017/08/PupilScreen-UbiComp-lab-team.jpg"><img class="size-half wp-image-54613" src="http://www.washington.edu/news/files/2017/08/PupilScreen-UbiComp-lab-team-375x250.jpg" alt="photo of UW Engineering researchers" width="375" height="250" /></a></p>
+<p class="wp-caption-text">The PupilScreen research team includes Shwetak Patel (left), the Washington Research Foundation Endowed Professor of Computer Science &amp; Engineering and of Electrical Engineering, and Alex Mariakakis (right), doctoral student in the Paul G. Allen School of Computer Science &amp; Engineering.<span class="wp-media-credit">Dennis Wise/University of Washington</span></p>
+</div>
+<p>One of the challenges in developing PupilScreen involved training the machine learning tools to distinguish between the eye’s pupil and iris, which involved annotating roughly 4,000  images of eyes by hand. A computer has the advantage of being able to quantify subtle changes in the pupillary light reflex that the human eye cannot perceive.</p>
+<p>“Instead of designing an algorithm to solve the specific problem of measuring pupil response, we moved this to a machine learning approach — collecting a lot of data and writing an algorithm that allowed the computer to learn for itself,” said co-author <a href="http://www.linkedin.com/in/jbaudin">Jacob Baudin</a>,  a UW medical student and doctoral student in physiology and biophysics.</p>
+<p>The PupilScreen researchers are currently working to identify partners interested in conducting additional field studies of the app, which they expect to begin in October.</p>
+<p>The project was funded by the National Science Foundation, the Washington Research Foundation and Amazon Catalyst.</p>
+<p>Co-authors include <a href="http://www.ericwhitmire.com/">Eric Whitmire</a>, <a href="https://www.linkedin.com/in/vardhmanm/">Vardhman Mehta</a> and <a href="http://students.washington.edu/banksm3/">Megan A. Banks</a> of the Paul G. Allen School of Computer Science &amp; Engineering and UW Medicine Otolaryngology – Head and Neck Surgery resident <a href="http://otolaryngology.uw.edu/resident/anthony-law">Dr. Anthony Law</a>.</p>
+<p>For more information, contact the research team at <a href="mailto:uwpupilscreen@gmail.com">uwpupilscreen@gmail.com</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.washington.edu/news/2017/09/06/pupilscreen-aims-to-allow-parents-coaches-medics-to-detect-concussion-brain-injuries-with-a-smartphone/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<enclosure url="http://www.washington.edu/news/files/2017/08/PupilScreen-main-150x150.jpg" length="7560" type="image/jpeg" />	</item>
+		<item>
+		<title>Earth as hybrid planet: New classification scheme places Anthropocene era in astrobiological context</title>
+		<link>http://www.washington.edu/news/2017/09/06/earth-as-hybrid-planet-new-classification-scheme-places-anthropocene-era-in-astrobiological-context/</link>
+		<comments>http://www.washington.edu/news/2017/09/06/earth-as-hybrid-planet-new-classification-scheme-places-anthropocene-era-in-astrobiological-context/#comments</comments>
+		<pubDate>Wed, 06 Sep 2017 15:47:13 +0000</pubDate>
+		<dc:creator><![CDATA[Peter Kelley]]></dc:creator>
+				<category><![CDATA[News releases]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[Science]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[UW and the community]]></category>
+		<category><![CDATA[Anthropocene]]></category>
+		<category><![CDATA[College of Built Environments]]></category>
+		<category><![CDATA[Marina Alberti]]></category>
+
+		<guid isPermaLink="false">http://www.washington.edu/news/?p=54644</guid>
+		<description><![CDATA[A team of researchers including the UW's Marina Alberti has devised a new classification scheme for the evolutionary stages of worlds based on "non-equilibrium thermodynamics" — a planet's energy flow being out of synch, as the presence of life could cause. ]]></description>
+				<content:encoded><![CDATA[<p>For decades, as astronomers have imagined advanced extraterrestrial civilizations, they categorized such worlds by the amount of energy their inhabitants might conceivably be able to harness and use.</p>
+<p>They sorted the hypothetical worlds into three types according to a scheme named in 1964 for Soviet astronomer <a href="https://en.wikipedia.org/wiki/Nikolai_Kardashev" target="_blank">Nikolai Kardashev</a>. A Type 1 civilization could manipulate all the energy resources of its home planet (a distant goal yet for Earth) and Type 2 all the energy in its star/planetary system. A super-advanced Type 3 civilization would command the energy of its whole home galaxy. The Kardashev Scale has since become a sort of gold standard for dreaming about possible civilizations beyond Earth.</p>
+<p>Now, a team of researchers including <a href="http://urbaneco.washington.edu/wp/team-2/marina-alberti/">Marina Alberti</a> of the University of Washington has devised a new classification scheme for the evolutionary stages of worlds based on &#8220;non-equilibrium thermodynamics&#8221; — a planet&#8217;s energy flow being out of synch, as the presence of life could cause. The categories range from imagined planets with no atmosphere whatsoever to those with an &#8220;agency-dominated biosphere&#8221; or even a &#8220;technosphere,&#8221; reflecting the achievements of a vastly advanced, &#8220;energy-intensive technological species.&#8221;</p>
+<p>Their <a href="http://www.sciencedirect.com/science/article/pii/S2213305417300425">paper</a>, &#8220;Earth as a Hybrid Planet: The Anthropocene in an Evolutionary Astrobiological Context,&#8221; was published Sept. 6 in the journal Anthropocene. Lead author is <a href="http://www.pas.rochester.edu/people/faculty/frank_adam/index.html">Adam Frank</a>, professor of physics and astronomy at the University of Rochester. Alberti is a professor of urban design and planning in the UW College of Built Environments, and director of the college&#8217;s Urban Ecology Research Lab.</p>
+<p>The new classification system, the researchers say, is a way of thinking about sustainability on a planetary scale in what is being recognized as the <a href="https://en.wikipedia.org/wiki/Anthropocene">Anthropocene</a> epoch — the geological period of humanity&#8217;s significant impact on Earth and its ecosystems. Alberti <a href="http://www.washington.edu/news/2017/01/03/university-of-washington-led-study-shows-new-global-evidence-of-the-role-of-humans-urbanization-in-rapid-evolution/">contends in her research</a> that humans and the urban areas we create are having a strong, planetwide effect on evolution.</p>
+<p>&#8220;Our premise is that Earth&#8217;s entry into the Anthropocene represents what might, from an astrobiological perspective, be a predictable planetary transition,&#8221; they write. &#8220;We explore this problem from the perspective of our own solar system and exoplanet studies.</p>
+<p>&#8220;In our perspective, the beginning of the Anthropocene can be seen as the onset of the hybridization of the planet — a transitional stage from one class of planetary systems to another.&#8221;</p>
+<p>That would be, in their scheme, Earth&#8217;s possible transition from Class IV — marked by a thick biosphere and life having some effect on the planet — to the final Class V, where a planet is profoundly affected by the activity of an advanced, energy-intensive species.</p>
+<p>The classification scheme, the researchers write, is based on &#8220;the magnitude by which different planetary processes — abiotic, biotic and technologic — generate free energy, i.e. energy that can perform work within the system.&#8221;</p>
+<ul>
+<li>Class I represents worlds with no atmosphere at all, such as the planet Mercury and the Earth&#8217;s moon.</li>
+<li>Class II planets have a thin atmosphere containing <a href="https://en.wikipedia.org/wiki/Greenhouse_gas">greenhouse gases</a>, but no current life, such as the current states of planets Mars and Venus.</li>
+<li>Class III planets have perhaps a thin biosphere and some biotic activity, but much too little to &#8220;affect planetary drivers and alter the evolutionary state of the planet as a whole.&#8221; No current examples exist in the solar system, but early Earth may have represented such a world — and possibly early Mars, if life ever flickered there in the distant past.</li>
+<li>Class IV planets have a thick biosphere sustained by photosynthetic activity and life has begun strongly affecting the planetary energy flow.</li>
+</ul>
+<p>Alberti said, &#8220;The discovery of seven new exoplanets orbiting the relatively close star TRAPPIST-1 forces us to rethink life on Earth. It opens the possibility to broaden our understanding of coupled system dynamics and lay the foundations to explore a path to long-term sustainability by entering into a cooperative ecological-evolutionary dynamic with the coupled planetary systems.&#8221;</p>
+<p>The researchers write, &#8220;Our thesis is that the development of long-term sustainable, versions of an energy-intensive civilization must be seen on a continuum of interactions between life and its host planet.&#8221;</p>
+<p>The classifications lay the groundwork, they say, for future research on the &#8220;co-evolution&#8221; of planets along that continuum.</p>
+<p>&#8220;Any world hosting a long-lived energy-intensive civilization must share at least some similarities in terms of the thermodynamic properties of the planetary system,&#8221; they write. &#8220;Understanding these properties, even in the broadest outlines, can help us understand which direction we must aim our efforts in developing a sustainable human civilization.&#8221;</p>
+<p>In other words, they added, &#8220;If one does not know where one is going, it&#8217;s hard to get there.&#8221;</p>
+<p>Co-author on the paper is <a href="https://www.bgc-jena.mpg.de/index.php/BTM/AxelKleidon">Axel Kleidon</a> of the Max Planck Institute for Biogeochemistry in Jena, Germany.</p>
+<p style="text-align: center">###</p>
+<p>For more information contact Alberti at 206-616-8667 or <a href="mailto:malberti@uw.edu">malberti@uw.edu</a> (Twitter: <a href="https://twitter.com/ma003">@ma003</a>) or Frank at 585-275-1717 or <a href="mailto:afrank@pas.rochester.edu">afrank@pas.rochester.edu</a> (Twitter: <a href="https://twitter.com/AdamFrank4">@AdamFrank4</a>).</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.washington.edu/news/2017/09/06/earth-as-hybrid-planet-new-classification-scheme-places-anthropocene-era-in-astrobiological-context/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<enclosure url="http://www.washington.edu/news/files/2017/09/bwhi1apicaaamlo.jpg_large-e1505152313106-150x150.jpg" length="9135" type="image/jpeg" />	</item>
+		<item>
+		<title>New app could use smartphone selfies to screen for pancreatic cancer</title>
+		<link>http://www.washington.edu/news/2017/08/28/new-app-uses-smartphone-selfies-to-screen-for-pancreatic-cancer/</link>
+		<comments>http://www.washington.edu/news/2017/08/28/new-app-uses-smartphone-selfies-to-screen-for-pancreatic-cancer/#comments</comments>
+		<pubDate>Mon, 28 Aug 2017 16:53:40 +0000</pubDate>
+		<dc:creator><![CDATA[Jennifer Langston]]></dc:creator>
+				<category><![CDATA[Engineering]]></category>
+		<category><![CDATA[Health and medicine]]></category>
+		<category><![CDATA[News releases]]></category>
+		<category><![CDATA[Research]]></category>
+		<category><![CDATA[Science]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Department of Electrical Engineering]]></category>
+		<category><![CDATA[James Taylor]]></category>
+		<category><![CDATA[Paul G. Allen School of Computer Science & Engineering]]></category>
+		<category><![CDATA[Shwetak Patel]]></category>
+		<category><![CDATA[UW Medicine]]></category>
+
+		<guid isPermaLink="false">http://www.washington.edu/news/?p=54505</guid>
+		<description><![CDATA[A new app could lead to earlier detection of pancreatic cancer simply by snapping a smartphone selfie. The disease kills 90 percent of patients within five years, in part because there are no telltale symptoms or non-invasive screening tools to catch a tumor before it spreads.]]></description>
+				<content:encoded><![CDATA[<div id="attachment_54508" class="wp-caption alignright" style="width: 385px"><a href="http://www.washington.edu/news/files/2017/08/UW-BiliScreen.jpg"><img class="size-half wp-image-54508" src="http://www.washington.edu/news/files/2017/08/UW-BiliScreen-375x250.jpg" alt="BiliScreen is a new smartphone app that can screen for pancreatic cancer by having users snap a selfie. It’s shown here with a 3-D printed box that helps control lighting conditions to detect signs of jaundice in a person’s eye." width="375" height="250" /></a></p>
+<p class="wp-caption-text">BiliScreen is a new smartphone app that is designed to screen for pancreatic cancer by having users snap a selfie. It’s shown here with a 3-D printed box that helps control lighting conditions to detect signs of jaundice in a person’s eye.<span class="wp-media-credit">Dennis Wise/University of Washington</span></p>
+</div>
+<p>Pancreatic cancer has one of the worst prognoses — with a five-year survival rate of <a href="https://www.pancan.org/about-us/news-press-center/2017-press-releases/press-release-january-6-2017-pancreatic-cancer-survival-increases-9-percent/">9 percent</a> — in part because there are no telltale symptoms or non-invasive screening tools to catch a tumor before it spreads.</p>
+<p>Now, University of Washington researchers are developing an app that could allow people to easily screen for pancreatic cancer and other diseases — by snapping a smartphone selfie.</p>
+<p><a href="https://ubicomplab.cs.washington.edu/publications/biliscreen/">BiliScreen</a> uses a smartphone camera, computer vision algorithms and machine learning tools to detect increased bilirubin levels in a person&#8217;s sclera, or the white part of the eye. The app is described in a <a href="https://ubicomplab.cs.washington.edu/pdfs/biliscreen.pdf">paper</a> to be presented Sept. 13 at <a href="http://ubicomp.org/ubicomp2017/">Ubicomp 2017</a>, the Association for Computing Machinery’s International Joint Conference on Pervasive and Ubiquitous Computing.</p>
+<p>One of the earliest symptoms of pancreatic cancer, as well as other diseases, is jaundice, a yellow discoloration of the skin and eyes caused by a buildup of <a href="http://www.webmd.com/digestive-disorders/bilirubin-15434#1">bilirubin</a> in the blood. The ability to detect signs of jaundice when bilirubin levels are minimally elevated — but before they’re visible to the naked eye — could enable an entirely new screening program for at-risk individuals.</p>
+<p>In an initial clinical study of 70 people, the BiliScreen app — used in conjunction with a 3-D printed box that controls the eye’s exposure to light — correctly identified cases of concern 89.7 percent of the time, compared to the blood test currently used.</p>
+<p><iframe width="750" height="422" src="https://www.youtube.com/embed/xAI-95DSZi8?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p>“The problem with pancreatic cancer is that by the time you’re symptomatic, it’s frequently too late,” said lead author <a href="https://atm15.github.io/">Alex Mariakakis</a>, a doctoral student at the Paul G. Allen School of Computer Science &amp; Engineering. “The hope is that if people can do this simple test once a month — in the privacy of their own homes — some might catch the disease early enough to undergo treatment that could save their lives.”</p>
+<p>BiliScreen builds on earlier work from the UW’s <a href="https://ubicomplab.cs.washington.edu/">Ubiquitous Computing Lab</a>, which previously developed <a href="http://www.washington.edu/news/2014/08/27/new-smartphone-app-can-detect-newborn-jaundice-in-minutes/">BiliCam</a>, a smartphone app that screens for newborn jaundice by taking a picture of a baby’s skin. A <a href="http://pediatrics.aappublications.org/content/early/2017/08/23/peds.2017-0312">recent study</a> in the journal Pediatrics showed BiliCam provided accurate estimates of bilirubin levels in 530 infants.</p>
+<p>In collaboration with UW Medicine doctors, the UbiComp lab specializes in using cameras, microphones and other components of common consumer devices — such as smartphones and tablets — to screen for disease.</p>
+<div id="attachment_54510" class="wp-caption alignleft" style="width: 385px"><a href="http://www.washington.edu/news/files/2017/08/UW-BiliScreen-output.jpg"><img class="size-half wp-image-54510" src="http://www.washington.edu/news/files/2017/08/UW-BiliScreen-output-375x250.jpg" alt="BiliScreen provides estimates of bilirubin levels in a person’s blood. Elevated levels can be an early warning sign for pancreatic cancer, hepatitis and other diseases. " width="375" height="250" /></a></p>
+<p class="wp-caption-text">BiliScreen provides estimates of bilirubin levels in a person’s blood. Elevated levels can be an early warning sign for pancreatic cancer, hepatitis and other diseases.<span class="wp-media-credit">Dennis Wise/University of Washington</span></p>
+</div>
+<p>The blood test that doctors currently use to measure bilirubin levels — which is typically not administered to adults unless there is reason for concern — requires access to a health care professional and is inconvenient for frequent screening. BiliScreen is designed to be an easy-to-use, non-invasive tool that could help determine whether someone ought to consult a doctor for further testing. Beyond diagnosis, BiliScreen could also potentially ease the burden on patients with pancreatic cancer who require frequent bilirubin monitoring.</p>
+<p>In adults, the whites of the eyes are more sensitive than skin to changes in bilirubin levels, which can be an early warning sign for pancreatic cancer, hepatitis or the generally harmless <a href="http://www.mayoclinic.org/diseases-conditions/gilberts-syndrome/basics/definition/con-20024904">Gilbert’s syndrome</a>. Unlike skin color, changes in the sclera are more consistent across all races and ethnicities.</p>
+<p>Yet by the time people notice the yellowish discoloration in the sclera, bilirubin levels are already well past cause for concern. The UW team wondered if computer vision and machine learning tools could detect those color changes in the eye before humans can see them.</p>
+<p>“The eyes are a really interesting gateway into the body — tears can tell you how much glucose you have, sclera can tell you how much bilirubin is in your blood,” said senior author <a href="https://homes.cs.washington.edu/~shwetak/">Shwetak Patel</a>, the Washington Research Foundation Entrepreneurship Endowed Professor in Computer Science &amp; Engineering and Electrical Engineering.  “Our question was: Could we capture some of these changes that might lead to earlier detection with a selfie?”</p>
+<p>BiliScreen uses a smartphone’s built-in camera and flash to collect pictures of a person’s eye as they snap a selfie. The team developed a computer vision system to automatically and effectively isolate the white parts of the eye, which is a valuable tool for medical diagnostics. The app then calculates the color information from the sclera — based on the wavelengths of light that are being reflected and absorbed — and correlates it with bilirubin levels using machine learning algorithms.</p>
+<div id="attachment_54511" class="wp-caption alignright" style="width: 385px"><a href="http://www.washington.edu/news/files/2017/08/UW-BiliScreen-accessories.jpg"><img class="size-half wp-image-54511" src="http://www.washington.edu/news/files/2017/08/UW-BiliScreen-accessories-375x250.jpg" alt="The UW team tested two different accessories for BiliScreen: a 3-D printed box to control lighting conditions and glasses that help the app calibrate colors. The goal is to remove the need for additional accessories, potentially by mining data from facial pictures. " width="375" height="250" /></a></p>
+<p class="wp-caption-text">The UW team tested two different accessories for BiliScreen: a 3-D printed box to control lighting conditions and glasses that help the app calibrate colors. The goal is to remove the need for additional accessories, potentially by mining data from facial pictures.<span class="wp-media-credit">Dennis Wise/University of Washington</span></p>
+</div>
+<p>To account for different lighting conditions, the team tested BiliScreen with two different accessories: paper glasses printed with colored squares to help calibrate color and a 3-D printed box that blocks out ambient lighting. Using the app with the box accessory — reminiscent of a <a href="https://vr.google.com/cardboard/">Google Cardboard</a> headset — led to slightly better results.</p>
+<p>Next steps for the research team include testing the app on a wider range of people at risk for jaundice and underlying conditions, as well as continuing to make usability improvements — including removing the need for accessories like the box and glasses.</p>
+<p>“This relatively small initial study shows the technology has promise,” said co-author Dr. <a href="http://www.uwmedicine.org/bios/james-taylor">Jim Taylor</a>, a professor in the UW Medicine Department of Pediatrics whose father died of pancreatic cancer at age 70.</p>
+<p>“Pancreatic cancer is a terrible disease with no effective screening right now,” Taylor said. “Our goal is to have more people who are unfortunate enough to get pancreatic cancer to be fortunate enough to catch it in time to have surgery that gives them a better chance of survival.”</p>
+<p>Co-authors include Allen School undergraduate student Megan A. Banks, research study coordinator Lauren Phillipi and assistant professor of medicine <a href="http://www.uwmedicine.org/bios/lei-yu">Lei Yu</a>.</p>
+<p>The research was funded by the National Science Foundation, the Coulter Foundation and endowment funds from the Washington Research Foundation.</p>
+<p>For more information, contact the research team at <a href="uwbiliscreen@gmail.com">uwbiliscreen@gmail.com</a> or <a href="https://atm15.github.io/">Mariakakis</a> at <a href="atm15@cs.washington.edu">atm15@cs.washington.edu</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.washington.edu/news/2017/08/28/new-app-uses-smartphone-selfies-to-screen-for-pancreatic-cancer/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<enclosure url="http://www.washington.edu/news/files/2017/08/UW-BiliScreen-150x150.jpg" length="6957" type="image/jpeg" />	</item>
+	</channel>
+</rss>
