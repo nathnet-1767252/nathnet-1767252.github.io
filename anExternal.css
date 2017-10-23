@@ -1,0 +1,36 @@
+body {
+  background-color: cyan;
+}
+#Banner {
+  text-align: center;
+  position: relative;
+  margin: 20px;
+}
+#Banner h3 {
+  position: absolute;
+  top: 40px;
+  left: 0;
+  width: 100%;
+  text-shadow: 1px 1px 1px black;
+}
+#float {
+  float: left;
+  margin: 20px;
+  border-radius: 30px;
+  overflow: hidden;
+}
+#body {
+  margin-left: 40px;
+}
+#body h3 {
+  border: 2px dotted purple;
+  margin: 20px auto auto 620px;
+  width: 450px;
+  text-align: center;
+}
+#p1 {
+  font-family: 'Indie Flower', cursive;
+}
+#p2 {
+  font-family: 'Gloria Hallelujah', cursive;
+}
